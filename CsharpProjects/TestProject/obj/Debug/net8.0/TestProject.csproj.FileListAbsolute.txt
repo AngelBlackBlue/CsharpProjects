@@ -2,7 +2,6 @@ F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debu
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
-F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
@@ -13,3 +12,4 @@ F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debu
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+F:\dotnet\Test\CsharpProjects\CsharpProjects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
